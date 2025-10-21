@@ -1,0 +1,15 @@
+[
+  {
+    "pedidos": [
+      {
+        "nome": "expresso",
+        "preco": 543
+      },
+      {
+        "nome": "ok",
+        "preco": 1
+      }
+    ],
+    "total": "544.00"
+  }
+]
